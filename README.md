@@ -1,1 +1,3 @@
-# ContinentalThrift.github.io
+# Continental Thrift
+
+The eCommerce website

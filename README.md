@@ -1,3 +1,3 @@
 # Continental Thrift
 
-The eCommerce website
+The eCommerce website.
